@@ -1,0 +1,16 @@
+{
+  "name": "bot-suporte-tickets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.21.7",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.0"
+  }
+}
